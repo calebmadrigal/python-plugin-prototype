@@ -1,4 +1,4 @@
-__apiversion__ = '1.0.0'
+__apiversion__ = 1
 
 
 def trigger(dev_id=None, num_bytes=None, power=None, **kwargs):
